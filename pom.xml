@@ -308,7 +308,7 @@
                                 <requireJavaVersion>
                                     <version>[11.0.10,12)</version>
                                 </requireJavaVersion>
-                                <dependencyConvergence />
+                                <dependencyConvergence/>
                                 <bannedDependencies>
                                     <excludes>
                                         <exclude>log4j</exclude>
@@ -962,7 +962,7 @@
             <dependency>
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-text</artifactId>
-                <version>1.8</version>
+                <version>1.10.0</version>
             </dependency>
 
             <dependency>
