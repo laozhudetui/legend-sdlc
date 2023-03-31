@@ -308,7 +308,7 @@
                                 <requireJavaVersion>
                                     <version>[11.0.10,12)</version>
                                 </requireJavaVersion>
-                                <dependencyConvergence />
+                                <dependencyConvergence/>
                                 <bannedDependencies>
                                     <excludes>
                                         <exclude>log4j</exclude>
@@ -774,7 +774,7 @@
             <dependency>
                 <groupId>com.nimbusds</groupId>
                 <artifactId>oauth2-oidc-sdk</artifactId>
-                <version>6.5</version>
+                <version>10.7.1</version>
             </dependency>
 
             <dependency>
